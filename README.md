@@ -4,6 +4,7 @@ This is a solution for a task 2 required as a submission for QOSF Mentorship Pro
 To run:
 ```sh
 git clone https://github.com/speryt/QOSF_submission.git
+cd QOSF_submission
 python -m pip install -r requirements.txt
 python -m pytest
 ```
